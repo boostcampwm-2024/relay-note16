@@ -8,9 +8,12 @@
 
 #### 🍀 수행 미션
 자신의 추천곡을 매일 하나씩 준비하여 음악 공유하는 채널이나 랜덤 채널에 피어 세션 시작 시점에 공유하기
+<details>
+<summary>#### 🌈 결과</summary>
 
-#### 🌈 결과
-
+##### day16 공유
+![day16_J121](https://github.com/user-attachments/assets/a41c5b32-7657-4313-86cd-7861fe91ab31)
+</details>
 <br><br>
 
 ### J183 이석규
