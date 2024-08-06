@@ -11,8 +11,13 @@
 <details>
 <summary> <h4> 🌈 결과 </h4> </summary>
 
-##### day16 공유
-![day16_J121](https://github.com/user-attachments/assets/a41c5b32-7657-4313-86cd-7861fe91ab31)
+|수행 여부| 수행 날짜| 사진|
+|:-----:|-----|-----|
+|  ✅  |  08/05  |  <img src="https://github.com/user-attachments/assets/a41c5b32-7657-4313-86cd-7861fe91ab31" width="320px">  |
+|  ✅  |  08/06  |  <img src="https://github.com/user-attachments/assets/46c7e04a-0b81-4c0e-a54c-f24d4427f40a" width="320px">  |
+|  🔲  |  08/07  |  <img src="" width="320px">  |
+|  🔲  |  08/08  |  <img src="" width="320px">  |
+|  🔲  |  08/09  |  <img src="" width="320px">  |
 </details>
 <br><br>
 
