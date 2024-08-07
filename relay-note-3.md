@@ -15,7 +15,7 @@
 |:-----:|-----|-----|
 |  ✅  |  08/05  |  <img src="https://github.com/user-attachments/assets/a41c5b32-7657-4313-86cd-7861fe91ab31" width="320px">  |
 |  ✅  |  08/06  |  <img src="https://github.com/user-attachments/assets/46c7e04a-0b81-4c0e-a54c-f24d4427f40a" width="320px">  |
-|  🔲  |  08/07  |  <img src="" width="320px">  |
+|  ✅  |  08/07  |  <img src="https://github.com/user-attachments/assets/6d31e377-8fe0-4896-894c-c48a91d6679c" width="320px">  |
 |  🔲  |  08/08  |  <img src="" width="320px">  |
 |  🔲  |  08/09  |  <img src="" width="320px">  |
 </details>
