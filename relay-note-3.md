@@ -17,7 +17,11 @@
 |  ✅  |  08/06  |  <img src="https://github.com/user-attachments/assets/46c7e04a-0b81-4c0e-a54c-f24d4427f40a" width="320px">  |
 |  ✅  |  08/07  |  <img src="https://github.com/user-attachments/assets/6d31e377-8fe0-4896-894c-c48a91d6679c" width="320px">  |
 |  ✅  |  08/08  |  <img src="https://github.com/user-attachments/assets/efbc955f-774a-4392-946a-3bfd0b5f2466" width="320px">  |
-|  🔲  |  08/09  |  <img src="" width="320px">  |
+|  ✅  |  08/09  |  <img src="https://github.com/user-attachments/assets/3584526d-6c32-424d-b698-ff0e3b6e3825" width="320px">  |
+
+
+자신이 좋아하는 노래를 타인에게 공유하고, 타인이 올린 좋아하는 노래들을 들어보며 공부에서 잠시 벗어나고, 매일 잠깐씩 릴레이프로젝트를 하는 느낌을 받은 것 같습니다.
+마지막 주차였던만큼, 타인과 공유하는 내용이라 약간 더 아쉬움이 남는 느낌입니다.
 </details>
 <br><br>
 
